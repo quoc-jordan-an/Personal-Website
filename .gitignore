@@ -1,6 +1,3 @@
-
-_site/
-
-\.idea/
-
-Gemfile\.lock
+_site
+.sass-cache
+.jekyll-metadata

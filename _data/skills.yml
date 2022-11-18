@@ -1,36 +1,23 @@
-header: Say something about what you're good at
+header: I am a believer in growing holistically. I believe that it is important to train both our minds and our body.
 
-subheader: Give some more context
+subheader: For this reason, I try my best to keep myself active physically and mentally. 
 
 skill_list:
-  - name: Skill 1
-    description: A quick sentence or two describing your skill
+  - name: Soccer
+    description: Soccer is about exlpoiting space off the ball and being efficient on the ball.
 
-  - name: Skill 2
-    description: A quick sentence or two describing your skill
+  - name: Dance
+    description: Dance elevate your mind-body connection.
 
-  - name: Skill 3
-    description: A quick sentence or two describing your skill
+  - name: Academic
+    description: In order to grow as person, you need knowledge.
+
+  - name: Chess
+    description: This old board game helps take your mind of heavy acadmic work.
 
 #If you have certifications, talk about them here
 certifications:
-  - name: Certification 1
+  - name: N/A
     topics:
-      - Topic 1A
-      - Topic 1B
-      - Topic 1C
-      - Topic 1D
+      - TBD
 
-  - name: Certification 2
-    topics:
-      - Topic 2A
-      - Topic 2B
-      - Topic 2C
-      - Topic 2D
-
-  - name: Certification 3
-    topics:
-      - Topic 3A
-      - Topic 3B
-      - Topic 3C
-      - Topic 3D

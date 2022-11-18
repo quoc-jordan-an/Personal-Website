@@ -1,7 +1,8 @@
 ---
-title: Your Website
-author: Your Name Here
-description: "A quick website description"
-layout: default
-permalink: /
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+title: Jordan An
+author: Jordan An
+description: "I like to eat"
+layout: home
 ---

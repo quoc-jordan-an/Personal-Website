@@ -1,13 +1,12 @@
 #LinkedIn
 #https://www.linkedin.com/in/{{LinkedInUsername}}/
-linkdin_username: /
+linkdin_username: /quoc-an
 
 #GitHub
-#https://github.com/{{GitHubUsername}}
-github_username: /
+github_username: /quoc-jordan-an
 
 #https://github.com/{{GitHubUsername}}/{{GitHubRepo}}
-github_repo: /
+github_repo: /quoc-jordan-an/Personal-Website
 
 #The email you'd like people to contact you with.
-email: /
+email: /anq@union.edu
